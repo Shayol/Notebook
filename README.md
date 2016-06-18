@@ -1,1 +1,1 @@
-# to start Notebook program type Python3 main.py in the command line 
+### To start Notebook program type `python3 main.py` in the command line 
